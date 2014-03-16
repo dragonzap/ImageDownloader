@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ProjektMunka</string>
+  <string name="wrong_url">Hibás URL</string>
+  <string name="page_not_found">Az oldal nem található</string>
+  <string name="no_image">Az oldalon nem található kép</string>
+  <string name="no_connection">Nincs kapcsolat</string>
+  <string name="image_count">Letöltött képek száma:</string>
+  <string name="undefined">Fentartott hibaüzenet (BUG)</string>
+</resources>
