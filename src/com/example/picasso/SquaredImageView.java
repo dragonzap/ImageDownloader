@@ -1,6 +1,7 @@
 package com.example.picasso;
 
 import android.content.Context;
+import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
@@ -12,6 +13,10 @@ final class SquaredImageView extends ImageView {
 
 	public SquaredImageView(Context context, AttributeSet attrs) {
 		super(context, attrs);
+	}
+
+	public SquaredImageView(Context context, AttributeSet attrs, int defStyle) {
+		super(context, attrs, defStyle);
 	}
 
 	@Override
